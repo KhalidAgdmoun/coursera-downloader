@@ -1,3 +1,4 @@
+Khalid Agdmoun [My changes] (https://github.com/KhalidAgdmoun/coursera-downloader)
 Coursera Videos Downloader
 --------------------------
 
